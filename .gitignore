@@ -1,7 +1,9 @@
-.env
-files/db.sql
 __pycache__/
+.github/
+.venv/
 auxiliary/__pycache__/
-routers/__pycache__/
-.DS_Store
+files/db.sql
 files/debug.log
+routers/__pycache__/
+.env
+.DS_Store
