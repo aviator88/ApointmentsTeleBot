@@ -1,0 +1,7 @@
+.env
+files/db.sql
+__pycache__/
+auxiliary/__pycache__/
+routers/__pycache__/
+.DS_Store
+files/debug.log
